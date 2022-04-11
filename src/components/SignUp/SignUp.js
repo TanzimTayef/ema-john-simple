@@ -28,9 +28,6 @@ const SignUp = () => {
       navigate("/shop")
     }
 
-
-    
-
   }
 
   return (
